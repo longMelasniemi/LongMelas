@@ -6,3 +6,6 @@ https://github.com/longMelasniemi/test.git
 heroku link
 
 https://note4test.herokuapp.com
+
+user/pass : user/user
+            admin/admin
